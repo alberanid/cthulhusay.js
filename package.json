@@ -1,0 +1,33 @@
+{
+  "name": "cthulhusay.js",
+  "version": "1.0.0",
+  "description": "the one and only cthulhu-fhtagn-ator",
+  "main": "cthulhusay.js",
+  "scripts": {
+    "cthulhusay": "NODE_ENV=production node cthulhusay.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alberanid/cthulhusay.js.git"
+  },
+  "keywords": [
+    "cthulhu",
+    "r-lyehian",
+    "cthuvian",
+    "sentence-generator",
+    "phrase",
+    "generator",
+    "words",
+    "great-old",
+    "language"
+  ],
+  "author": "Davide Alberani <da@erlug.linux.it>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/alberanid/cthulhusay.js/issues"
+  },
+  "homepage": "https://github.com/alberanid/cthulhusay.js#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
