@@ -22,7 +22,7 @@ Ok, ok...
 
 ## I see. What now?
 
-Kn'a nilgh'ri mg r'luhog ep nww mg f'nww uaaahhor bug.
+Kn'a nilgh'ri mg r'luhog ep nww mg f'nww uaaahhor bugg.
 
 Which can be translated more or less like "let's add some bugs together to this code": add some feature and do a pull request.
 
